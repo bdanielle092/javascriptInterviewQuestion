@@ -1,0 +1,3 @@
+# DayOne Javascript Code Challenge
+
+Implement the Dog class and Cat class in the `animals.js` file so that they track attributes as seen in the json in the `animals.test.js` file. Include an instance method `greet` for the animal to introduce itself. Fill in the body of the `greetAnimals` method so that each animal provided gives the appropriate introduction. Optimize your implementation to make your code concise, readable, and reusable. Pretend that this code has to go to production. What would you add/change to give yourself and your team confidence that it's not going to bring the site down?
